@@ -14,5 +14,10 @@
 #col_css {
     background-color: lightblue;
 }
-
+#dropdown_nav {
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: lightcyan;
+}
 
